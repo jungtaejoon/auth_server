@@ -1,2 +1,2 @@
 #!/bin/bash
-java -jar ./build/libs/*.jar -role hub &
+java -jar ./build/libs/*.jar nohup > /dev/null &
