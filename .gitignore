@@ -1,5 +1,8 @@
 *.yml
 out/
+gradle/
+gradlew
+gradlew.bat
 
 .gradle
 /build/
