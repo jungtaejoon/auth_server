@@ -43,7 +43,7 @@ public class AuthServerApplication {
 			auth
 					.inMemoryAuthentication()
 
-					.withUser("user").password("password")
+					.withUser("user").password("123")
 					.roles("USER")
 
 					.and()
